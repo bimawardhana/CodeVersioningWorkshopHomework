@@ -1,0 +1,1 @@
+Merging in Git is combining changes or history from another branch. 
