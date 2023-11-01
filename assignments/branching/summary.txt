@@ -1,0 +1,2 @@
+Branching in Git is creating a new version of the repo which could be used to add changes or develop new features isolated from the actual or main repo. 
+Because it is isolated, development could be done safely (not affecting the main/production codes).
