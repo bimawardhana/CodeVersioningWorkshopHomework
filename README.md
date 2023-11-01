@@ -7,3 +7,5 @@ Hello. This is Bima from DWE team.
 ### Version Control
 
 ### Hub of Git
+
+## Challenge & Lesson Learnt
