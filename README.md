@@ -1,10 +1,8 @@
 # CodeVersioningWorkshopHomework
 
-Hello. This is Bima from DWE team. 
+Hello. This is Bima from DWE team. The main branch's front page is very boring with lesson learnt etc.. But in here, it's all about fun. soooo . . . .
 
-I don't know what to write.
-
-(biar ga kosong) below is an awesome tic tac toe game from https://github.com/kylepls/kylepls/blob/master/README.md?plain=1 :D
+below is an awesome tic tac toe game from https://github.com/kylepls/kylepls/blob/master/README.md?plain=1 :D
 
 ---
 
