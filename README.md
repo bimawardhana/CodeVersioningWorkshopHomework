@@ -1,6 +1,12 @@
 # CodeVersioningWorkshopHomework
 
-Hello. (biar ga kosong) here's an awesome tic tac toe game from https://github.com/kylepls/kylepls/blob/master/README.md?plain=1 :D
+Hello. This is Bima from DWE team. 
+
+I don't know what to write.
+
+(biar ga kosong) below is an awesome tic tac toe game from https://github.com/kylepls/kylepls/blob/master/README.md?plain=1 :D
+
+---
 
 <a name="top"></a>
 I challenge you to a game of Tic-Tac-Toe. 
